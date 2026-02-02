@@ -16,6 +16,7 @@ Tool for migrating DNS zones and records from Cloudflare to Yandex Cloud
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 0.13 |
 | <a name="requirement_cloudflare"></a> [cloudflare](#requirement\_cloudflare) | ~> 5 |
+| <a name="requirement_yandex"></a> [yandex](#requirement\_yandex) | >= 0.181 |
 
 ## Providers
 
